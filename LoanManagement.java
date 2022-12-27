@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Scanner;
 
-class LoanManagementSystem
+public class LoanManagement
 {	
 	static double PercentRatePerAnum = 12;
 	
